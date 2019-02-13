@@ -31,7 +31,7 @@
 </nav>
 
 
-<header class="wrapper bgded overlay" id="haed">
+<div class="wrapper bgded overlay" id="haed">
   <div id="pageintro" class="hoc clear"> 
     <article>
       <p class="heading">Информационни технологии</p>
@@ -39,7 +39,7 @@
       <footer><a href="#" id="silver">Прочети повече &raquo;</a></footer>
     </article>
   </div>
-</header>
+</div>
 <main>
 <section class="wrapper row3">
   <div id="services" class="hoc clear"> 

@@ -405,9 +405,9 @@ table a, #comments a{background-color:inherit;}
 }
 
 #haed {
-	background-image:url('images/demo/backgrounds/01.png') !important;
+	background-image:url('/images/demo/backgrounds/01.png') !important;
 }
 
 #head {
-	background-image:url('images/demo/backgrounds/02.png') !important;
+	background-image:url('/images/demo/backgrounds/02.png') !important;
 }

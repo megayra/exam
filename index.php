@@ -31,7 +31,7 @@
 </nav>
 
 
-<header class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
+<header class="wrapper bgded overlay" id="haed">
   <div id="pageintro" class="hoc clear"> 
     <article>
       <p class="heading">Информационни технологии</p>
@@ -123,7 +123,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="bg wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/02.png');" >
+<div class="bg wrapper bgded overlay" id="head" >
   <article class="hoc container clear center"> 
     <!-- ################################################################################################ -->
     <h3 class="heading">C Sharp</h3>

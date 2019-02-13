@@ -406,3 +406,11 @@ table a, #comments a{background-color:inherit;}
 .wrapper bgded overlay{
  background-image:url('../images/demo/backgrounds/01.png');
 }
+
+#haed {
+	background-image:url('images/demo/backgrounds/01.png')!important;
+}
+
+#head {
+	background-image:url('images/demo/backgrounds/02.png')!important;
+}
